@@ -7,7 +7,13 @@ public class GitTest {
 		
 		System.out.println("niye ki");
 		
+
 		
 		System.out.println("vay anam");
+
+		System.out.println("oyle ki");
+		
+		
+
 	}
 }
